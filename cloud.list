@@ -1,0 +1,8 @@
+#Citrix IDP
+#DOMAIN-SUFFIX,secureportal.citrix.com
+DOMAIN-SUFFIX,idpaaa.citrix.com
+DOMAIN-SUFFIX,idp1aaa.citrix.com
+DOMAIN-SUFFIX,prod0aaa.citrix.com
+DOMAIN-SUFFIX,citrix.okta.com
+#ZOOM
+DOMAIN-SUFFIX,zoom.us
