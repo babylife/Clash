@@ -54,5 +54,6 @@ DOMAIN-SUFFIX,minepi.com
 DOMAIN-SUFFIX,nssurge.com
 #Other
 DOMAIN-SUFFIX,island.io
-
+#CF
+DOMAIN-SUFFIX,workers.dev
 
